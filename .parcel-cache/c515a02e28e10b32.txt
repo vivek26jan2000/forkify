@@ -1,4 +1,4 @@
-7808
+7802
 79C:\Users\HP\Desktop\java-script practicals\09-forkify-final\src\sass\_base.scss132886955210000000 0
 88C:\Users\HP\Desktop\java-script practicals\09-forkify-final\forkify-flowchart-part-1.png132886955210000000 0
 93C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\micromatch\README.md133180055517841418 0
@@ -23,7 +23,7 @@
 70C:\Users\HP\Desktop\java-script practicals\09-forkify-final\.gitignore133188623621755254 0
 116C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\typed-array\find-last-index.js133180055594508675 0
 101C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\workers\lib\child.js133180055521852184 0
-64C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist133194714634610552 1
+64C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist133202278729809886 1
 71C:\Users\HP\Desktop\java-script practicals\09-forkify-final\.prettierrc132886955210000000 0
 116C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\csso\lib\restructure\prepare\specificity.js133180055546085908 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\immutable\dist\immutable.min.js133180055528263551 0
@@ -83,7 +83,7 @@
 86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\tslib\modules133180055521222393 1
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\number\is-integer.js133180055612192509 0
 98C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\yaml\browser\parse-cst.js133180055537548755 0
-72C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules133194710559754086 1
+72C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules133194714882505735 1
 95C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\picomatch\package.json133180055524694596 0
 118C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\esnext.async-iterator.drop.js133180055585141810 0
 97C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\abortcontroller-polyfill133180055530736950 1
@@ -92,9 +92,9 @@
 112C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\esnext.iterator.some.js133180055586078992 0
 95C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\.eslintignore133180055512237049 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\array\flat-map.js133180055596123185 0
-77C:\Users\HP\Desktop\java-script practicals\09-forkify-final\package-lock.json133194710560554732 0
+77C:\Users\HP\Desktop\java-script practicals\09-forkify-final\package-lock.json133194714883293893 0
 96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-select\lib\index.js133180055524228334 0
-72C:\Users\HP\Desktop\java-script practicals\09-forkify-final\package.json133194710560612462 0
+72C:\Users\HP\Desktop\java-script practicals\09-forkify-final\package.json133194714883323539 0
 69C:\Users\HP\Desktop\java-script practicals\09-forkify-final\README.md133180118066869225 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133180055562033266 0
 97C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\set\some.js133180055634665106 0
@@ -184,7 +184,7 @@
 94C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\parent-module\license133180055515212644 0
 91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\terser\lib\size.js133180055549815945 0
 79C:\Users\HP\Desktop\java-script practicals\09-forkify-final\src\img\favicon.png132886955210000000 0
-76C:\Users\HP\Desktop\java-script practicals\09-forkify-final\src\js\config.js132886955210000000 0
+76C:\Users\HP\Desktop\java-script practicals\09-forkify-final\src\js\config.js133194718863356790 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\docs\package-lock.json133180055546624745 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\cosmiconfig\dist\ExplorerSync.js133180055519187818 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\sass\types\logger\source_span.d.ts133180055558385513 0
@@ -205,7 +205,7 @@
 97C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\self.js133180055630934393 0
 114C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\utils\src\generateBuildMetrics.js133180055537040102 0
 132C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133180055536113426 0
-78C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lmdb133194710559718194 1
+78C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lmdb133194714882456203 1
 85C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\svgo\plugins133180055554323879 1
 119C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-select\lib\pseudo-selectors\index.d.ts.map133180055537231662 0
 93C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\electron-to-chromium133180055531275526 1
@@ -273,7 +273,7 @@
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\string\repeat.js133180055626883997 0
 95C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\picomatch\CHANGELOG.md133180055526169190 0
 93C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\atob.js133180055564925536 0
-91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\.package-lock.json133194710561080654 0
+91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\.package-lock.json133194714883752378 0
 117C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@babel\highlight\node_modules\chalk\index.js133180055513863113 0
 154C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\package.json133180055559529965 0
 111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\lib\modules\removeComments.js133180055539264195 0
@@ -324,7 +324,7 @@
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\regions\NU.js133180055579108813 0
 92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\has-flag\index.d.ts133180055513524832 0
 96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\lib\helpers.js133180055528253587 0
-90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@msgpackr-extract133194710559705123 1
+90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@msgpackr-extract133194714882446196 1
 117C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\es.array.unscopables.flat.js133180055578569077 0
 111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\esnext.number.range.js133180055587195997 0
 102C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\math\imul.js133180055605207025 0
@@ -359,9 +359,9 @@
 85C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\browserslist133180055527615296 1
 85C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite133180055587366631 1
 151C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\index.js133180055544510124 0
-111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\to-sorted.js133180055642372360 0
 90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lines-and-columns133180055516854128 1
 116C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\typed-array\int32-array.js133180055610808855 0
+111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\to-sorted.js133180055642372360 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual\small.js133180055633648369 0
 109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-tree\lib\syntax\node\Operator.js133180055559370391 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\type-fest\source\set-required.d.ts133180055543025146 0
@@ -379,11 +379,6 @@
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\object\has-own.js133180055604602354 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\instance\every.js133180055589868856 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\cosmiconfig\dist\cacheWrapper.js133180055514082068 0
-83C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional133194710255597603 1
-98C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-select\lib\compile.js133180055519158307 0
-117C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\hash\parcel-hash.win32-x64-msvc.node133180055547482168 0
-90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\csso\lib\usage.js133180055546863834 0
-99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\internals\fails.js133180055590327620 0
 100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\package-manager\src133180055544025275 1
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\typed-array\copy-within.js133180055570869740 0
 101C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\node-releases\data\processed133180055513941853 1
@@ -424,6 +419,8 @@
 131C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133180055558193537 0
 81C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-tree133180055562841108 1
 93C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\posthtml-render\dist133180055521292204 1
+114C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\features\flexbox-gap.js133180055570670180 0
+113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\starts-with.js133180055636337665 0
 159C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133180055556368420 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\regions\MP.js133180055578290305 0
 81C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-what133180055535713649 1
@@ -1201,6 +1198,9 @@
 132C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.c133180055544799359 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\regexp\match.js133180055619719418 0
 115C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\docs\versioned_docs\version-1.1.1133180055554155492 1
+94C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\rollup.config.js133180055563050557 0
+110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\test\PublicAsset.test.js133180055561335139 0
+90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\stable\index.d.ts133180055513369211 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\regexp\index.js133180055608798867 0
 117C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\utility-types\dist\aliases-and-guards.js.map133180055524004951 0
 113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\utility-types\dist\functional-helpers.js133180055515408691 0
@@ -1450,6 +1450,7 @@
 108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\array\last-item.js133180055616765697 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-tree\lib\syntax\scope\selector.js133180055560686872 0
 125C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\internals\array-from-constructor-and-list.js133180055556168956 0
+82C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.97e5941a.js133202278529807920 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\internals\number-is-finite.js133180055620964603 0
 119C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\features\css-color-adjust.js133180055562832131 0
 85C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\terser\tools133180055554509225 1
@@ -1731,9 +1732,6 @@
 120C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\number\virtual\to-precision.js133180055641496346 0
 89C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\json5\LICENSE.md133180055529819424 0
 98C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\supports-color\browser.js133180055513369211 0
-94C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\rollup.config.js133180055563050557 0
-110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\test\PublicAsset.test.js133180055561335139 0
-90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\stable\index.d.ts133180055513369211 0
 116C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\hash\parcel-hash.linux-x64-gnu.node133180055545337905 0
 92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\stable\package.json133180055512082370 0
 97C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\lib\decode.d.ts133180055539513502 0
@@ -1995,8 +1993,8 @@
 99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\react-refresh\package.json133180055525850024 0
 125C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\esnext.async-iterator.constructor.js133180055585111566 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\regions\MN.js133180055578204724 0
-113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\to-reversed.js133180055642133008 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\regexp\split.js133180055636111241 0
+113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\to-reversed.js133180055642133008 0
 133C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\node-resolver-core\test\fixture\env-dep\package.json133180055558193537 0
 96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\react-refresh\README.md133180055527066758 0
 115C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\typed-array\from-async.js133180055598546693 0
@@ -2502,9 +2500,9 @@
 127C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133180055531195717 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\dom-serializer\lib\esm\index.d.ts.map133180055527585392 0
 89C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\src\txn.cpp133180055559230758 0
+107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\number\parse-int.js133180055623465044 0
 113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-tree\lib\syntax\node\MediaFeature.js133180055557196864 0
 92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\src\writer.cpp133180055559421820 0
-107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\number\parse-int.js133180055623465044 0
 94C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\has-flag\package.json133180055512246375 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\node_modules\node-addon-api133180055537219619 1
 91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\domhandler\LICENSE133180055512258830 0
@@ -2534,7 +2532,6 @@
 120C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\csso\lib\restructure\prepare\processSelector.js133180055545341191 0
 98C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual133180055646421521 1
 96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\dist\index.cjs.map133180055563509321 0
-94C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\index.html133194710255592011 0
 120C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\symbol\is-concat-spreadable.js133180055611504357 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\dependencies\lmdb-data-v1133180055512206490 1
 93C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\lmdb\dependencies\v8133180055561854129 1
@@ -2858,7 +2855,6 @@
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\lib\modules\custom.js133180055524505684 0
 111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\dom-serializer\lib\esm\foreignNames.js133180055514460475 0
 123C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.js133180055525560791 0
-93C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\README.md133194710255378199 0
 108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\htmlnano\lib\modules\mergeStyles.js133180055533080682 0
 115C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\es.object.lookup-setter.js133180055580483952 0
 116C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\esnext.iterator.for-each.js133180055585909439 0
@@ -2932,26 +2928,6 @@
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\regions\UZ.js133180055585401332 0
 94C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\get-port\package.json133180055512246375 0
 91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\get-port\readme.md133180055518729134 0
-143C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133180055566155319 0
-109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\symbol\description.js133180055574862340 0
-99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\array_mixins.js133194710255398374 0
-126C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133180055566810549 0
-108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\array\virtual\reverse.js133180055629307522 0
-92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\index.js133194710255467946 0
-99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\math\iaddh.js133180055605076569 0
-96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\package.json133194710255318362 0
-92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\releases133194710255647473 1
-105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\lib\decode_codepoint.js133180055514041584 0
-92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\tests.js133194710255507930 0
-109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\array\virtual\with.js133180055649661357 0
-112C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\async-iterator\from.js133180055598915718 0
-118C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\proposals\array-grouping-stage-3-2.js133180055556717699 0
-100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\domutils\lib\stringify.d.ts133180055539543507 0
-101C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lezer\common\dist\tree.d.ts133180055527605325 0
-108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\releases\fraction-0.1.js133194710255637512 0
-119C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\package-manager\src\JSONParseStream.js133180055538266843 0
-111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\string\virtual\blink.js133180055566551197 0
-108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fractional\releases\fraction-0.2.js133194710255670025 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\lib\buildCache.js133180055542766130 0
 92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fill-range\index.js133180055513524832 0
 96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\fill-range\package.json133180055512246375 0
@@ -2981,6 +2957,7 @@
 94C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\error-ex\package.json133180055512256348 0
 91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\readme.md133180055537199666 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\lib\decode_codepoint.d.ts133180055537738233 0
+105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\lib\decode_codepoint.js133180055514041584 0
 102C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\lib\encode-trie.d.ts133180055539939987 0
 106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\lib\encode-trie.d.ts.map133180055534985590 0
 100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\entities\lib\encode-trie.js133180055523905238 0
@@ -3060,6 +3037,10 @@
 101C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\workers\src\child.js133180055523227048 0
 97C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\domutils\lib\querying.js133180055522897899 0
 112C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\modules\es.reflect.construct.js133180055581023446 0
+109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\array\virtual\with.js133180055649661357 0
+112C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\async-iterator\from.js133180055598915718 0
+118C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\proposals\array-grouping-stage-3-2.js133180055556717699 0
+100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\domutils\lib\stringify.d.ts133180055539543507 0
 93C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\browserslist\LICENSE133180055512336139 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\domutils\lib\stringify.d.ts.map133180055533300337 0
 118C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\features\css-caret-color.js133180055562544335 0
@@ -3186,6 +3167,10 @@
 157C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\package.json133180055560367729 0
 119C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\internals\array-iteration-from-last.js133180055557864407 0
 89C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\csso\lib\replace133180055547272732 1
+98C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\css-select\lib\compile.js133180055519158307 0
+117C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\hash\parcel-hash.win32-x64-msvc.node133180055547482168 0
+90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\csso\lib\usage.js133180055546863834 0
+99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\internals\fails.js133180055590327620 0
 112C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\csso\lib\restructure\6-restructBlock.js133180055522179829 0
 102C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\set\union.js133180055647791976 0
 109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\regexp\constructor.js133180055570151568 0
@@ -3511,6 +3496,9 @@
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\suppressed-error.js133180055638284126 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\optimizer-terser\package.json133180055518000994 0
 90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\proposals133180055649573044 1
+96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lezer\common\README.md133180055522848035 0
+109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\package-manager\src\index.js133180055522011560 0
+113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\replace-all.js133180055627233072 0
 90C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\README.md133180055650010571 0
 122C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\features\input-email-tel-url.js133180055575068482 0
 87C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable133180055650020402 1
@@ -3536,6 +3524,7 @@
 96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\index.js133180055610108468 0
 102C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\is-iterable.js133180055612605820 0
 92C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\json133180055644426856 1
+86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.1b5b9323.js.map133194715152022950 0
 83C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\.bin\acorn133180055650539207 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\typed-array\sort.js133180055634984250 0
 91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\map133180055610150607 1
@@ -3663,6 +3652,8 @@
 119C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\package-manager\test\fixtures\packages133180055536710970 1
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\string\replace.js133180055628778932 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\string\split.js133180055636210968 0
+119C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\package-manager\src\JSONParseStream.js133180055538266843 0
+111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\string\virtual\blink.js133180055566551197 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\string\virtual\bold.js133180055566880314 0
 111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\array\virtual\push.js133180055624241390 0
 115C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\string\virtual\fontcolor.js133180055597100665 0
@@ -3703,9 +3694,9 @@
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\reflect\apply.js133180055552039982 0
 99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\map\upsert.js133180055648370205 0
 115C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\reflect\get-prototype-of.js133180055602555982 0
-103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\proposals\string-at.js133180055636696708 0
-106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\sort.js133180055635044085 0
 102C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\reflect\get.js133180055603386828 0
+106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\sort.js133180055635044085 0
+103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\proposals\string-at.js133180055636696708 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\stable\reflect\index.js133180055610280258 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\reflect\set.js133180055631790875 0
 109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\date\to-gmt-string.js133180055640167841 0
@@ -5095,6 +5086,7 @@
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\math\deg-per-rad.js133180055574015751 0
 100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\math\fround.js133180055599274934 0
 100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\math\fscale.js133180055599314816 0
+99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\math\iaddh.js133180055605076569 0
 111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\lib\public\BundleGroup.js133180055546534992 0
 99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\math\log1p.js133180055617190408 0
 98C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\math\log2.js133180055617269935 0
@@ -5144,6 +5136,7 @@
 98C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\parse-float.js133180055623009139 0
 102C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\iterator\find.js133180055595226746 0
 122C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\string\virtual\is-well-formed.js133180055613610853 0
+82C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.1b5b9323.js133194715151853419 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\map\upsert.js133180055648350255 0
 106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\iterator\for-each.js133180055598038054 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\iterator\index.js133180055609512314 0
@@ -5199,6 +5192,8 @@
 101C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\bigint\index.js133180055609277375 0
 95C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\fs\src\find.js133180055517146725 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\async-iterator\filter.js133180055592511802 0
+106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\src\public\Bundle.js133180055543873251 0
+106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\some.js133180055634375885 0
 109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\async-iterator\index.js133180055609259656 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\full\async-iterator\map.js133180055618660003 0
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\regions\KY.js133180055576706822 0
@@ -5550,16 +5545,9 @@
 91C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\utils\test133180055556238762 1
 111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\pad-start.js133180055622803497 0
 108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\repeat.js133180055626734403 0
-96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lezer\common\README.md133180055522848035 0
-109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\package-manager\src\index.js133180055522011560 0
-113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\replace-all.js133180055627233072 0
 109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\reverse.js133180055629427339 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\slice.js133180055632740258 0
-106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\src\public\Bundle.js133180055543873251 0
-106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\some.js133180055634375885 0
 108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\splice.js133180055635863668 0
-114C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\features\flexbox-gap.js133180055570670180 0
-113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\starts-with.js133180055636337665 0
 116C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\to-well-formed.js133180055645364353 0
 106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\graph\lib\ContentGraph.js133180055524354819 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\features\instance\trim-end.js133180055645623951 0
@@ -5850,7 +5838,7 @@
 111C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual\match-all.js133180055619147305 0
 109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual\pad-end.js133180055622500535 0
 108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual\repeat.js133180055626716164 0
-86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.e37f48ea.js.map133194714634575194 0
+86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.e37f48ea.js.map133202278729788219 0
 108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual\strike.js133180055636588284 0
 108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual\substr.js133180055637514532 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\string\virtual\sup.js133180055637674521 0
@@ -6056,6 +6044,8 @@
 104C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\array\virtual\map.js133180055618419894 0
 113C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\array\virtual\reduce-right.js133180055624879704 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\array\virtual\reduce.js133180055625258782 0
+126C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133180055566810549 0
+108C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\array\virtual\reverse.js133180055629307522 0
 105C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\array\virtual\sort.js133180055634904695 0
 107C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\es\array\virtual\splice.js133180055635802082 0
 106C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\aggregate-error.js133180055541747904 0
@@ -6136,6 +6126,8 @@
 114C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\typed-array\uint8-array.js133180055647362900 0
 122C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\typed-array\uint8-clamped-array.js133180055647442697 0
 112C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\symbol\async-iterator.js133180055562342451 0
+143C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133180055566155319 0
+109C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\symbol\description.js133180055574862340 0
 110C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\symbol\has-instance.js133180055604355153 0
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\symbol\index.js133180055607303843 0
 118C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\core-js\actual\symbol\is-concat-spreadable.js133180055611464438 0
@@ -7715,6 +7707,7 @@
 99C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lezer\common\package.json133180055521392441 0
 100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lezer\common\dist\index.js133180055519697940 0
 102C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lezer\common\dist\parse.d.ts133180055526538170 0
+101C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@lezer\common\dist\tree.d.ts133180055527605325 0
 96C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@jridgewell\resolve-uri133180055521202441 1
 100C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@jridgewell\sourcemap-codec133180055525331404 1
 103C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\@jridgewell\trace-mapping\dist133180055526209057 1
@@ -7798,12 +7791,13 @@
 86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\.bin\svgo.cmd133180055650588895 0
 86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\node_modules\.bin\svgo.ps1133180055650588895 0
 85C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\favicon.76dd299c.png133180097641000190 0
+86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.97e5941a.js.map133202278530015781 0
 83C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.987de634.css133180097642565873 0
 87C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.987de634.css.map133180097642685791 0
 82C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.afbf7f40.js133194700791904096 0
 86C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.afbf7f40.js.map133194700792017668 0
-82C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.e37f48ea.js133194714634455506 0
+82C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.e37f48ea.js133202278729588759 0
 83C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.f7626f62.css133194714634447804 0
 87C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.f7626f62.css.map133194714634556679 0
-75C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.html133194713198169182 0
+75C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\index.html133202278529786384 0
 82C:\Users\HP\Desktop\java-script practicals\09-forkify-final\dist\logo.726d37a8.png133194714634455506 0
